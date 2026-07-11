@@ -1,1 +1,1 @@
-Hi! I'm V-Liss. I'm self-taught from first principles. I take pride in writing my code from scratch without using AI or looking up pre-existing algorithms, mostly in C++. You can check out my games, The Guns series, to see what I'm talking about. See ya! 
+Hi! I'm V-Liss. I'm self-taught from first principles. I take pride in writing my code from scratch without using AI or looking up pre-existing algorithms, mostly in C++. You can check out my games, The Guns series, to see what I'm talking about. Nice meeting ya!
