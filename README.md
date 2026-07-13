@@ -4,7 +4,7 @@ I am a backend C++ developer specializing in core application logic, algorithms,
 
 I work exclusively within the codebase window (**Vanilla C++**) to build lightweight, lightning-fast modules that drop straight into existing systems without adding external bloat or unneeded dependencies.
 
-I am self-taught from first principles, meaning I never used AI to write code for me (Except this README, it's stylized :3), never watched tutorials on how to write my logic or looked it up directly, and never reverse engineered existing algorithms. Every The Guns project here I figured out myself, using just Code::Blocks, Vanilla C++, SFML frontend, and logic.
+I am self-taught from first principles, meaning I never used AI to write code for me (Except this README, it's stylized :3), never watched tutorials on how to write my logic, and never copied or reverse-engineered existing algorithms. Every The Guns project here I figured out myself, using just Code::Blocks, Vanilla C++, SFML frontend, and logic.
 
 ---
 
