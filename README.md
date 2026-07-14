@@ -1,6 +1,6 @@
-# ⚡ High-Performance C++ Logic Engine
+# ⚡ High-Performance Language Agnostic Logic Engine
 
-I am a backend C++ developer specializing in core application logic, algorithms, custom physics, and pure mathematical programming. 
+I am a backend developer specializing in core application logic, algorithms, custom physics, and pure mathematical programming. 
 
 I work mostly within the codebase window (**Vanilla C++**) to build lightweight, lightning-fast modules that drop straight into existing systems without adding external bloat or unneeded dependencies.
 
