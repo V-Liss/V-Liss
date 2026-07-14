@@ -2,7 +2,9 @@
 
 I am a backend C++ developer specializing in core application logic, algorithms, custom physics, and pure mathematical programming. 
 
-I work exclusively within the codebase window (**Vanilla C++**) to build lightweight, lightning-fast modules that drop straight into existing systems without adding external bloat or unneeded dependencies.
+I work mostly within the codebase window (**Vanilla C++**) to build lightweight, lightning-fast modules that drop straight into existing systems without adding external bloat or unneeded dependencies.
+
+I am language agnostic and can work with all other traditional languages (Python, JavaScript, etc.), but the principle regarding dependencies persists.
 
 I am self-taught from first principles, meaning I never used AI to write code for me (Except this README, it's stylized :3), never watched tutorials on how to write my logic, and never copied or reverse-engineered existing algorithms. Every The Guns project here I figured out myself, using just Code::Blocks, Vanilla C++, SFML frontend, and logic.
 
@@ -12,7 +14,7 @@ I am self-taught from first principles, meaning I never used AI to write code fo
 If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, **I offer a flat 50/50 profit split.**
 
 * **Strict Scope Boundaries:** I focus 100% on core math, logic, and backend mechanics. I do not touch UI layouts, cloud infrastructure, or platform wrappers. This completely eliminates "scope creep" and endless design edits.
-* **Rapid Turnaround:** By isolating the exact programming task, I deliver clean, standalone `.cpp` and `.h` source files that work immediately.
+* **Rapid Turnaround:** By isolating the exact programming task, I deliver clean, standalone `.cpp` and `.h` (or other language) source files that work immediately.
 * **True Division of Labor:** You own the client relationship, project pricing, and communication. I operate as your silent, reliable backend delivery system.
 
 > **Ready to test the engine?** Let's do a quick, small task under an hour to prove the workflow. Drop me a line on **Discord:** https://discord.com/users/1258252481310363689
