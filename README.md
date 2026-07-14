@@ -16,7 +16,7 @@ If you are a freelance sales agent, marketer, or client acquisition specialist l
 * **Strict Scope Boundaries:** I focus 100% on core math, logic, and backend mechanics. I do not touch UI layouts, cloud infrastructure, or platform wrappers. This completely eliminates "scope creep" and endless design edits.
 * **Rapid Turnaround:** By isolating the exact programming task, I deliver clean, standalone `.cpp` and `.h` (or other language) source files that work immediately.
 * **True Division of Labor:** You own the client relationship, project pricing, and communication. I operate as your silent, reliable backend delivery system.
-* **Technical side communication:** I am willing to communicate with the client on the technical side. Once a good task is found, I can discuss the details of the job, including helping them connect the files.
+* **Technical side communication:** I am willing to communicate with the client on the technical side. Once a paid lead is found and I had a look at the task at hand, connect us and we will discuss the details of the job, including helping them merge the files in if it's needed.
 
 > **Ready to test the engine?** Let's do a quick, small task under an hour to prove the workflow. Drop me a line on **Discord:** https://discord.com/users/1258252481310363689
 
