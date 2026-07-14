@@ -14,7 +14,7 @@ I am self-taught from first principles, meaning I never used AI to write code fo
 If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, **I offer a flat 50/50 profit split.**
 
 * **Strict Scope Boundaries:** I focus 100% on core math, logic, and backend mechanics. I do not touch UI layouts, cloud infrastructure, or platform wrappers. This completely eliminates "scope creep" and endless design edits.
-* The only exception regarding pre-made platforms is Roblox studio. Having completed Basket Entertainment accelerator program, I can work with Roblox infrastructure (DataStores, MarketplaceService, etc. but only backend - not tweenservice)
+* (The only exception regarding pre-made platforms is Roblox studio. Having completed Basket Entertainment accelerator program, I can work with Roblox backend infrastructure - DataStores, MarketplaceService, etc. - not TweenService)
 * **Rapid Turnaround:** By isolating the exact programming task, I deliver clean, standalone `.cpp` and `.h` (or other language) source files that work immediately.
 * **True Division of Labor:** You own the client relationship, project pricing, and communication. I operate as your silent, reliable backend delivery system.
 * **Technical side communication:** I am willing to communicate with the client on the technical side. Once a paid lead is found and I had a look at the task at hand, connect us and we will discuss the details of the job, including helping them merge the files in if it's needed.
