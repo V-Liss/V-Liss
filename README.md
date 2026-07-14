@@ -10,7 +10,7 @@ I am self-taught from first principles, meaning I never used AI to write code fo
 
 ---
 
-## 🤝 For Agency Partners & Growth Specialists
+## 🤝 For Agency Partners & Growth Specialists (sniper looking for a spotter)
 If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, **I offer a flat 50/50 profit split.**
 
 * **Strict Scope Boundaries:** I focus 100% on core math, logic, and backend mechanics. I do not touch UI layouts, cloud infrastructure, or platform wrappers. This completely eliminates "scope creep" and endless design edits.
@@ -20,10 +20,10 @@ If you are a freelance sales agent, marketer, or client acquisition specialist l
 * **Technical side communication:** I am willing to communicate with the client on the technical side. Once a paid lead is found and I had a look at the task at hand, connect us and we will discuss the details of the job, including helping them merge the files in if it's needed.
   
 > **Spotter's manual:**
-1. Your best bet are indie game development communities. Once you've found a lead, see that there are no frameworks. Ask the client if they are willing to pay and how much. 
+1. Your best bet are indie game development communities. Once you've found a lead, see that there are no frameworks. Ask the client if they are willing to pay and how much.
 2. If they are willing to pay, send me the chat and the lead itself.
-3. If that's a good lead, add them into our discord chat or have them DM me. I'll handle the rest.
-4. Close the deal and distribute our money.
+3. If that's a good lead, add them into our discord chat or have them DM me. I'll take it from there.
+4. Once I'm done, close the deal and distribute our money.
 
 > **Ready to test the engine?** Let's do a quick, small task under an hour to prove the workflow. Drop me a line on **Discord:** https://discord.com/users/1258252481310363689
 
