@@ -11,6 +11,7 @@ I am self-taught from first principles, meaning I never used AI to write code fo
 ---
 
 ## 🤝 For Agency Partners & Growth Specialists (sniper looking for a spotter)
+
 If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, **I offer a flat 50/50 profit split.**
 
 * **Strict Scope Boundaries:** I focus 100% on core math, logic, and backend mechanics. I do not touch UI layouts, cloud infrastructure, or platform wrappers. This completely eliminates "scope creep" and endless design edits.
@@ -19,7 +20,7 @@ If you are a freelance sales agent, marketer, or client acquisition specialist l
 * **True Division of Labor:** You own the search, the client relationship, and first stages of communication. I operate as your backend delivery system.
 * **Technical side communication:** I am willing to communicate with the client on the technical side. Once a paid lead is found and I had a look at the task at hand, connect us and we will discuss the details of the job, including helping them merge the files in if it's needed.
   
-> **If you're a bit lost, here's the spotter's manual:**
+**If you're a bit lost, here's the spotter's manual:**
 1. Your best bet are indie game development communities. Once you've found a lead, see that there are no frameworks we'll have to work with. (e.g. it's fine if the game is in Unity, as long as I have to write a black box for their algorithms and not use Unity components in that). Check that we don't have to deal with UI. Ask the client if they are willing to pay and how much.
 2. If they are willing to pay, send me the chat and the lead itself.
 3. If that's a good lead, add them into our discord chat, have them DM me, or add me to their development group. I'll take it from there.
