@@ -2,7 +2,7 @@
 
 I am a backend developer specializing in core application logic, algorithms, custom physics, and pure mathematical programming. 
 
-I work mostly within the codebase window (**Vanilla C++**) to build lightweight, lightning-fast modules that drop straight into existing systems without adding external bloat or unneeded dependencies.
+I work mostly within the codebase window (**Vanilla C++**) to build lightweight, lightning-fast modules that drop straight into existing systems without adding external bloat or unneeded dependencies. The only frameworks I use are Docker for its versatility, and Roblox because of my experience with it.
 
 I am language agnostic and can work with all other traditional languages (Python, JavaScript, etc.), but the principle regarding dependencies persists.
 
@@ -15,7 +15,6 @@ I am self-taught from first principles, meaning I never used AI to write code fo
 If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, **I offer a flat 50/50 profit split.**
 
 * **Strict Scope Boundaries:** I focus 100% on core math, logic, and backend mechanics. I do not touch UI layouts, cloud infrastructure, or platform wrappers. This completely eliminates "scope creep" and endless design edits.
-* (The only exception regarding pre-made platforms is Roblox studio. Having completed Basket Entertainment accelerator program, I can work with Roblox backend infrastructure - DataStores, MarketplaceService, etc. - not TweenService)
 * **Rapid Turnaround:** By isolating the exact programming task, I deliver clean, standalone `.cpp` and `.h` (or other language) source files that work immediately.
 * **True Division of Labor:** You own the search, the client relationship, and first stages of communication. I operate as your backend delivery system.
 * **Technical side communication:** I am willing to communicate with the client on the technical side. Once a paid lead is found and I had a look at the task at hand, connect us and we will discuss the details of the job, including helping them merge the files in if it's needed.
@@ -24,7 +23,7 @@ If you are a freelance sales agent, marketer, or client acquisition specialist l
 1. Your best bet are indie game development communities. Once you've found a lead, see that there are no frameworks we'll have to work with. (e.g. it's fine if the game is in Unity, as long as I have to write a black box for their algorithms and not use Unity components in that). Check that we don't have to deal with UI. Ask the client if they are willing to pay and how much. Feel free to use my GitHub if you need to.
 2. If they are willing to pay, send me the chat and the lead itself.
 3. If that's a good lead, add them into our discord chat, have them DM me, or add me to their development group. I'll take it from there.
-4. Once I'm done, close the deal and distribute our money.
+4. Once I'm done, close the deal and distribute our money be either having them pay my half in crypto, or by transferring it to me.
 
 > **Ready to test the engine?** Let's do a quick, small task under an hour to prove the workflow. Drop me a line on **Discord:** https://discord.com/users/1258252481310363689
 
