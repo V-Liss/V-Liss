@@ -23,7 +23,7 @@ If you are a freelance sales agent, marketer, or client acquisition specialist l
 1. Your best bet are indie game development communities. Once you've found a lead, see that there are no frameworks we'll have to work with. (e.g. it's fine if the game is in Unity, as long as I have to write a black box for their algorithms and not use Unity components in that). Check that we don't have to deal with UI. Ask the client if they are willing to pay and how much. Feel free to use my GitHub if you need to.
 2. If they are willing to pay, send me the chat and the lead itself.
 3. If that's a good lead, add them into our discord chat, have them DM me, or add me to their development group. I'll take it from there.
-4. Once I'm done, close the deal and distribute our money be either having them pay my half in crypto, or by transferring it to me.
+4. Once I'm done, close the deal and wire half the money to me in crypto.
 
 > **Ready to test the engine?** Let's do a quick, small task under an hour to prove the workflow. Drop me a line on **Discord:** https://discord.com/users/1258252481310363689
 
