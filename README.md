@@ -12,7 +12,7 @@ I am self-taught from first principles, meaning I never used AI to write code fo
 
 ## 🤝 For Agency Partners & Growth Specialists (sniper looking for a spotter)
 
-If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, I'm happy to discuss a referral commission or revenue split.
+If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, I'm offering a flat **50/50 revenue split**
 
 * **Strict Scope Boundaries:** I focus 100% on core math, logic, and backend mechanics. I do not touch UI layouts, cloud infrastructure, or platform wrappers. This completely eliminates "scope creep" and endless design edits.
 * **Rapid Turnaround:** By isolating the exact programming task, I deliver clean, standalone `.cpp` and `.h` (or other language) source files that work immediately.
