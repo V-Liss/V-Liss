@@ -10,7 +10,7 @@ I am self-taught from first principles, meaning I never used AI to write code fo
 
 ---
 
-## 🤝 For Agency Partners & Growth Specialists (sniper looking for a spotter)
+## 🤝 For Go-To-Market Specialists (sniper looking for a spotter)
 
 If you are a freelance sales agent, marketer, or client acquisition specialist looking for an elite technical engine to fulfill your deals, I'm offering a flat **50/50 revenue split**
 
