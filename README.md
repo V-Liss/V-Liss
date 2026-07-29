@@ -49,7 +49,7 @@ Libraries like SFML are used strictly as a window frame to output the visuals. E
 ---
 
 ### 📬 Connect With Me
-* **Discord:** https://discord.com/users/1258252481310363689
+* **Discord:** https://discord.com/users/1258252481310363689 (nickname if the link doesn't work: v_liss_the_inventor)
 * **GitHub:** Right here—explore the repositories below to see the logic loops in action.
 
 Feel free to DM me if you want to collaborate or just want to chat. I don't bite:)
